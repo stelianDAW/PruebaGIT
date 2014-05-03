@@ -11,6 +11,6 @@ package com.iescomercio.pruebagit.stelian;
 public class ClaseStelian {
 
     public static void main(String args[]) {
-        System.out.println("Hola Mundo");
+        System.out.println("Hola Pais");
     }
 }
